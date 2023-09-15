@@ -2,7 +2,7 @@
 
 This is a simple URL shortener web application built using Flask, Python, and Bootstrap. It allows users to shorten long URLs for easy sharing.
 
-![Screenshot](screenshot.png)
+
 
 ## Features
 
@@ -14,7 +14,6 @@ This is a simple URL shortener web application built using Flask, Python, and Bo
 
 ## Installation
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/youssoddev/url-shortener.git
+1. You can either download the URLShortner.rar file and extract it and will contain everything, or donwload the app.py seperately and the Static and Templates(HTML).rar file and extract that. Both will give the same result.
+2. Use CMD to direct to the file location of app.py and use python app.py to run the program
+3. Copy the address that is given and paste it into browser, then type in the link you want to shorten and use shortened link
